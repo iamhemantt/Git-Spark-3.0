@@ -6,4 +6,8 @@ class Spark{
     public void Paytm(){
         System.out.println("Done!");
     }
+
+    public void NotifySy(){
+        System.out.println( "System Done!");
+    }
 }
