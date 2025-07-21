@@ -10,4 +10,8 @@ class Spark{
     public void NotifySy(){
         System.out.println( "System Done!");
     }
+
+    public void Auth(){
+        System.out.println( "Authication Done!");
+    }
 }
